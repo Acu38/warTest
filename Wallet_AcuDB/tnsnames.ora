@@ -1,0 +1,12 @@
+acudb_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=g37c7c199348279_acudb_high.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.ap-chuncheon-1.oraclecloud.com, OU=Oracle ADB CHUNCHEON, O=Oracle Corporation, L=Redwood City, ST=California, C=US")))
+
+acudb_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=g37c7c199348279_acudb_low.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.ap-chuncheon-1.oraclecloud.com, OU=Oracle ADB CHUNCHEON, O=Oracle Corporation, L=Redwood City, ST=California, C=US")))
+
+acudb_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=g37c7c199348279_acudb_medium.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.ap-chuncheon-1.oraclecloud.com, OU=Oracle ADB CHUNCHEON, O=Oracle Corporation, L=Redwood City, ST=California, C=US")))
+
+acudb_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=g37c7c199348279_acudb_tp.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.ap-chuncheon-1.oraclecloud.com, OU=Oracle ADB CHUNCHEON, O=Oracle Corporation, L=Redwood City, ST=California, C=US")))
+
+acudb_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-chuncheon-1.oraclecloud.com))(connect_data=(service_name=g37c7c199348279_acudb_tpurgent.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.ap-chuncheon-1.oraclecloud.com, OU=Oracle ADB CHUNCHEON, O=Oracle Corporation, L=Redwood City, ST=California, C=US")))
+
+
+
